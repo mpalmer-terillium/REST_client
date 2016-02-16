@@ -1,0 +1,8 @@
+[package]
+name = "rustclient"
+version = "0.1.0"
+authors = ["michael <mpalmer16@gmail.com>"]
+
+[dependencies]
+
+hyper = "*"

@@ -1,0 +1,11 @@
+[package]
+name = "httptest"
+version = "0.1.0"
+authors = ["michael <mpalmer16@gmail.com>"]
+
+[dependencies]
+
+iron = "*"
+rustc-serialize = "*"
+router = "*"
+hyper = "*"
